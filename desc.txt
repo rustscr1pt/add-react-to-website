@@ -16,4 +16,4 @@ Add these scripts to index.html :
 </script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-3)
+3) After selected <div> was initialized add scripts for components with type : "text/babel", it can be js or jsx file.
